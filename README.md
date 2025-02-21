@@ -49,7 +49,7 @@ This project focuses on analyzing call center performance using an Excel dataset
 ## Dashboard & Visuals
 Below are screenshots of the dashboard and key visualizations from the analysis:
 
-
+*(Add your screenshots here)*
 
 ## Areas for Improvement
 - **Data Structuring:** Standardize column naming conventions and ensure data consistency for more efficient processing.
@@ -59,5 +59,7 @@ Below are screenshots of the dashboard and key visualizations from the analysis:
 - **Operational Optimization:** Identify high-performing representatives and peak call times to optimize workforce allocation.
 
 This project serves as a foundation for call center analytics, demonstrating how **Excel-based pivot tables and dashboards** can be used to derive meaningful insights from raw data. 🚀
+
+
 
 

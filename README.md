@@ -49,7 +49,7 @@ This project focuses on analyzing call center performance using an Excel dataset
 ## Dashboard & Visuals
 Below are screenshots of the dashboard and key visualizations from the analysis:
 
-*(Add your screenshots here)*
+![Dashboard screenshot](https://github.com/soumil-saurya/Call-Center-Data-Analysis/blob/main/Call%20Centre%20Report%20Dashboard%20Screenshot.png?raw=true)
 
 ## Areas for Improvement
 - **Data Structuring:** Standardize column naming conventions and ensure data consistency for more efficient processing.
